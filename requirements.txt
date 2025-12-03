@@ -1,0 +1,10 @@
+lightgbm
+transformers
+sentencepiece
+pandas
+scikit-learn
+torch
+tqdm
+pyarrow
+hf_xet
+iprogress
